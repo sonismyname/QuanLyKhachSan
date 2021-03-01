@@ -1,0 +1,11 @@
+D:\Kì 2 năm 3\Thức tập nhóm\MyPJ\QLKS_Demo\QuanLysKhachSan\QuanLysKhachSan\bin\Debug\QuanLysKhachSan.exe.config
+D:\Kì 2 năm 3\Thức tập nhóm\MyPJ\QLKS_Demo\QuanLysKhachSan\QuanLysKhachSan\bin\Debug\QuanLysKhachSan.exe
+D:\Kì 2 năm 3\Thức tập nhóm\MyPJ\QLKS_Demo\QuanLysKhachSan\QuanLysKhachSan\bin\Debug\QuanLysKhachSan.pdb
+D:\Kì 2 năm 3\Thức tập nhóm\MyPJ\QLKS_Demo\QuanLysKhachSan\QuanLysKhachSan\obj\Debug\QuanLysKhachSan.csprojAssemblyReference.cache
+D:\Kì 2 năm 3\Thức tập nhóm\MyPJ\QLKS_Demo\QuanLysKhachSan\QuanLysKhachSan\obj\Debug\QuanLysKhachSan.Login.resources
+D:\Kì 2 năm 3\Thức tập nhóm\MyPJ\QLKS_Demo\QuanLysKhachSan\QuanLysKhachSan\obj\Debug\QuanLysKhachSan.Properties.Resources.resources
+D:\Kì 2 năm 3\Thức tập nhóm\MyPJ\QLKS_Demo\QuanLysKhachSan\QuanLysKhachSan\obj\Debug\QuanLysKhachSan.csproj.GenerateResource.cache
+D:\Kì 2 năm 3\Thức tập nhóm\MyPJ\QLKS_Demo\QuanLysKhachSan\QuanLysKhachSan\obj\Debug\QuanLysKhachSan.csproj.CoreCompileInputs.cache
+D:\Kì 2 năm 3\Thức tập nhóm\MyPJ\QLKS_Demo\QuanLysKhachSan\QuanLysKhachSan\obj\Debug\QuanLysKhachSan.exe
+D:\Kì 2 năm 3\Thức tập nhóm\MyPJ\QLKS_Demo\QuanLysKhachSan\QuanLysKhachSan\obj\Debug\QuanLysKhachSan.pdb
+D:\Kì 2 năm 3\Thức tập nhóm\MyPJ\QLKS_Demo\QuanLysKhachSan\QuanLysKhachSan\obj\Debug\QuanLysKhachSan.FormMain.resources

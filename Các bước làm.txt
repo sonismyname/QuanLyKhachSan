@@ -1,0 +1,8 @@
+- 3 ngày 1/3-3/3 
+
++, Cài đặt cơ sở dữ liệu theo file "data.bak" bằng cách restore
+ (Không được thì chạy file "database.sql")
+
++, Nhìn qua bảng quan hệ dữ liệu file "Quan hệ dữ liêu.png"
+-->(?) Nếu có thắc mắc về cơ sở dữ liệu, không cài đặt được hỏi qua mess
+
