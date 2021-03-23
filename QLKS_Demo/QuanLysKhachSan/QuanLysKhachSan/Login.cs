@@ -12,6 +12,7 @@ namespace QuanLysKhachSan
 {
     public partial class Login : Form
     {
+        string connect = "httt";
         public Login()
         {
             InitializeComponent();
